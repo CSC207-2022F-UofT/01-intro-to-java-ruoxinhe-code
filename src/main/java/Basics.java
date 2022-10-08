@@ -39,7 +39,7 @@ public class Basics {
          *    (Relevant reading: 1.1.3. Printing things)
          */
         System.out.println(7 + 5);
-        System.out.println("hello world");
+        System.out.println("Hello World!");
         /* TODO (Task 1): Write a line of code below that prints the string
          *                Hello World!
          */
@@ -89,7 +89,7 @@ public class Basics {
          *    (Relevant reading: 1.8.2. for Loops)
          */
          for (int i = 10; i >= 0; i--){
-             System.out.println(i);
+             System.out.println("Current count: "+i);
                 }
         /*
          * TODO (Task 3): Create a for-loop that loops from 10 to 0, printing
